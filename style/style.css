@@ -1,0 +1,56 @@
+/*关于我的样式*/
+
+/*大的介绍，大格式*/
+#a-1{
+	background-color:#efe5d0;
+	width:1010px; margin:10px auto 0 auto; padding:30px;
+	height:320px;
+	overflow:hidden;
+}
+
+/*左边文字部分*/
+#a-1-1{
+	float:left;
+	width:49%; height:350px;
+	overflow:hidden;
+}
+
+/*右边图片部分*/
+#a-1-2{
+	float:right;
+	width:49%; height:300px;
+	overflow:hidden;
+}
+#a-1-2 img{
+	width:100%;
+}
+
+/*下面表格部分*/
+/*大的介绍，大格式*/
+#a-2{
+	background-color:#efe5d0;
+	width:1010px;
+	margin:auto;
+	padding:30px;
+	padding-top: 0px;
+	overflow:hidden;
+}
+/*表格具体各部分格式*/
+table{
+	width:100%;
+	border:solid #fff; border-width:1px 1px 1px 1px; border-spacing:0px;
+}
+th{
+	color:#954b4b; height:32px; text-align:left;
+	padding-left:10px;
+	background-color:#c9ba92;
+}
+
+td{
+	border:solid #fff; border-width:0px 1px 1px 0px;
+	padding:5px 20px;
+	background:#f1efe3; 
+}
+ul{
+	margin-top:5px;
+}
