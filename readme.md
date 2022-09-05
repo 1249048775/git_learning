@@ -1,1 +1,2 @@
-have a good time!
+hi, have a good time!
+
